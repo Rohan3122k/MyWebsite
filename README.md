@@ -20,4 +20,5 @@ Personal portfolio of a data engineering / analytics grad (MS Data Analytics Eng
 - Fully responsive
 
 > The source code lives in a private repository. This repo exists to showcase the live site.
-> © 2026 Rohan Verma. All rights reserved.
+
+© 2026 Rohan Verma. All rights reserved.
